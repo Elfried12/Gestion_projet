@@ -1,0 +1,10 @@
+# Tp Gestion de projet
+![Interface creation d'un projet](public/Ajout_projet.png)
+![Interface creation d'une tache](/public/creation_taches.png)
+![Interface Liste des projets](public/Listes_des_projets.png)
+![Interface Liste des taches](public/Listes_des_taches.png)
+![Interface Liste des taches par projet](public/Listes_taches_projet.png)
+![Interface Editer un projet](public/Edit_projet.png)
+![Interface Editer une tache](public/Edit_task.png)
+![Interface Filtre par projet](public/filtre_par_projet.png)
+![Interface Filtre par status](public/taches_filtre_status.png)
